@@ -1,0 +1,71 @@
+body {
+    background-color:#f0f0f0;
+}
+h1, h2, h3 {
+    font-family:Arial Narrow;
+    font-variant:small-caps;
+    }
+h1 {
+    font-size: 15pt;
+    text-align:center;
+}
+
+h2 {
+    font-size: 12pt;
+}
+
+h3 {
+    font-size: 10pt;
+}
+
+p {
+    font-family:Franklin Gothic Book, sans-serif;
+    font-size: 10pt;
+    color:black;
+    }
+
+th {
+    font-family:Franklin Gothic Book;
+    font-size: 10pt;
+    font-weight: bold;
+    color:black;
+    border: 1px solid;
+}
+
+td {
+    font-family:Franklin Gothic Book;
+    font-size: 10pt;
+    color:black;
+    padding: 5px;
+    border: 1px solid;
+}
+
+li {
+    font-family:Franklin Gothic Book;
+    font-size: 10pt;
+    color:black;
+}
+
+a {
+    font-family:Franklin Gothic Book;
+    font-size: 10pt;
+    text-decoration: none;
+}
+    a:link{
+       color:darkblue;
+    }
+    a:visited{
+        color:darkviolet;
+    }
+    a:hover {
+        font-weight: bold;
+        text-decoration: underline;
+    }
+    a:active {
+        color: firebrick;
+    }
+
+tr {
+    border-collapse: collapse;
+    border: 5px solid black;
+}
